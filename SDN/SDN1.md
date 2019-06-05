@@ -23,8 +23,6 @@ This architecture decouples the network control and forwarding functions enablin
 
 ### The SDN Architecture is:
 
-![image](https://user-images.githubusercontent.com/24405247/58934403-045cbf80-8788-11e9-8628-7559743830cb.png)
-
 #### DIRECTLY PROGRAMMABLE
 Network control is directly programmable because it is decoupled from forwarding functions.
 
@@ -39,3 +37,5 @@ SDN lets network managers configure, manage, secure, and optimize network resour
 
 #### OPEN STANDARDS-BASED AND VENDOR-NEUTRAL
 When implemented through open standards, SDN simplifies network design and operation because instructions are provided by SDN controllers instead of multiple, vendor-specific devices and protocols.
+
+![image](https://user-images.githubusercontent.com/24405247/58934403-045cbf80-8788-11e9-8628-7559743830cb.png)
