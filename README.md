@@ -1,9 +1,14 @@
 # SDNDOCS
 This repository contains documentation on SDN related concepts as mentioned:
+
 1. Software-Defined Networking (SDN)
+
 2. OpenFlow protocol
+
 3. ONOS
+
 4. CORD
+
 5. Networking basics
 
   a) Hub 
@@ -18,14 +23,10 @@ This repository contains documentation on SDN related concepts as mentioned:
 
   f) Different type of addressing
 
-    i) Logical addressing
+  - Logical addressing
 
-    ii) Physical addressing
+  - Physical addressing
   
-    iii)
-  
-    iv)
-
   g) Different types of networks 
 
   h) OVS layer
