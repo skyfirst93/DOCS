@@ -1,5 +1,9 @@
-# SDNDOCS
-This repository contains documentation on SDN related concepts as mentioned:
+
+![image](https://user-images.githubusercontent.com/24405247/58935710-9f0acd80-878b-11e9-8f4b-42820bbd3fc9.png)
+
+# DOCS
+
+This repository contains documentation on Telecom sector related concepts as mentioned:
 
 1. Software-Defined Networking (SDN)
 
