@@ -1,46 +1,45 @@
 # SDNDOCS
 This repository contains documentation on SDN related concepts as mentioned:
-
 1. Software-Defined Networking (SDN)
 2. OpenFlow protocol
 3. ONOS
 4. CORD
 5. Networking basics
 
-a) Hub 
+  a) Hub 
 
-b) Switch
+  b) Switch
 
-c) Router
+  c) Router
 
-d) Gateway
+  d) Gateway
 
-e) Repeater
+  e) Repeater
 
-f) Different type of addressing
+  f) Different type of addressing
 
-  i) Logical addressing
+    i) Logical addressing
 
-  ii) Physical addressing
+    ii) Physical addressing
   
-  iii)
+    iii)
   
-  iv)
+    iv)
 
-g) Different types of networks 
+  g) Different types of networks 
 
-h) OVS layer
+  h) OVS layer
 
-i) TCP/IP stack 
+  i) TCP/IP stack 
 
-j) Difference between TCP and UDP 
+  j) Difference between TCP and UDP 
 
-k) DNS 
+  k) DNS 
 
-l) DHCP 
+  l) DHCP 
 
-m) Flow of packets between two machines 
+  m) Flow of packets between two machines 
 
-n) 
+  n) 
 
 6. 
